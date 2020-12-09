@@ -11,12 +11,12 @@
 			"props": {
 				"src": "https://dummyimage.com/720X400/000111/fff"
 			}
-	}
-	```
+		}
+		```
 	
 	
      - Update the app name and version in your *manifest.json* file
-           ```
+       ```
 	   {
                "vendor": "appliancetheme",
                "name": "trainingweek-fabiana",
