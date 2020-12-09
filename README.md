@@ -16,11 +16,13 @@
 	
 	
      - Update the app name and version in your *manifest.json* file
-           {
+           ```
+	   {
                "vendor": "appliancetheme",
                "name": "trainingweek-fabiana",
                ...
            } 
+	   ```
 
 3. Save your content in the current repository
 
