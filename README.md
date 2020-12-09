@@ -6,7 +6,7 @@
 -  Update content to allow changes to be made in the *Site Editor*
      - Update banner text
      - Create an image block with a dummy image in *home.jsonc*
-	"image#placeholder": {
+     	"image#placeholder": {
 		"props": {
 			"src": "https://dummyimage.com/720X400/000111/fff"
 		}
