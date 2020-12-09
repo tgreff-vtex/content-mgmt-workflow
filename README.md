@@ -14,6 +14,7 @@
 		}
 	```
 	
+	
      - Update the app name and version in your *manifest.json* file
            {
                "vendor": "appliancetheme",
