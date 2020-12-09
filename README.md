@@ -11,7 +11,7 @@
 			"props": {
 				"src": "https://dummyimage.com/720X400/000111/fff"
 			}
-		}
+	}
 	```
 	
 	
