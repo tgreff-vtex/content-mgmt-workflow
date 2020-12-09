@@ -8,10 +8,10 @@
      - Create an image block with a dummy image in *home.jsonc*
      	```
      	"image#placeholder": {
-		"props": {
-			"src": "https://dummyimage.com/720X400/000111/fff"
+			"props": {
+				"src": "https://dummyimage.com/720X400/000111/fff"
+			}
 		}
-	}
 	```
 	
      - Update the app name and version in your *manifest.json* file
